@@ -68,7 +68,7 @@ Abra o terminal na pasta do projeto e digite:
    Acesse no navegador: http://localhost:8000
 
    👨‍💻 Autor
-Desenvolvido com foco em aprendizado e boas práticas por:
 
+Desenvolvido com foco em aprendizado e boas práticas por:
 Paulo Gomes de Oliveira
 
