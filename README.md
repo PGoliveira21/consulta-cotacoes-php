@@ -69,7 +69,6 @@ Abra o terminal na pasta do projeto e digite:
 
    👨‍💻 Autor
 Desenvolvido com foco em aprendizado e boas práticas por:
-[Seu Nome Aqui]
-🔗 LinkedIn https://www.linkedin.com/in/paulo-gomes-oliveira?utm_source=share_via&utm_content=profile&utm_medium=member_android
-📄 Currículo Online https://curriculo.free.nf/
-✉️ paulogomesoliveira@outlook.com
+
+Paulo Gomes de Oliveira
+
